@@ -3,5 +3,5 @@
 MY NAME IS MIDHUN
 Updated README with an introduction
 
-Contributor: Aakashs
+Contributor: Aakash
 Edited readme.
